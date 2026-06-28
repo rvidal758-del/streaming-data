@@ -1,22 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-28 10:18:07",
-  "total_peliculas": 11,
+  "ultima_actualizacion": "2026-06-28 10:55:42",
+  "total_peliculas": 10,
   "peliculas": [
-    {
-      "id": "repelishd",
-      "titulo": "RePelisHD",
-      "portada": "https://repelishd.ceo/uploads/posts/2026-06/1782463775-949520676.webp",
-      "banner": "",
-      "categorias": [],
-      "descripcion": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que ",
-      "año": "",
-      "pais": [],
-      "director": [],
-      "actores": [],
-      "calificacion": "6.0",
-      "video": "https://r1.dropcdn.io/hls2/02/00026/qq6zobi3igo6_o/master.m3u8?=vbCTT9STsxWrrsOqoYnBvJRUqq-FuzcLlDAE83Tg3kg&=1782628188&=14400&=2647240&srv=ds1i&=.&sp=3000",
-      "fuente": "RepelisHD"
-    },
     {
       "id": "el-manuscrito-de-dante",
       "titulo": "El manuscrito de Dante",
@@ -49,8 +34,9 @@
         "Paolo Bonacelli",
         "Martin Scorsese"
       ],
-      "calificacion": 5.2,
-      "video": "https://ds2.dropcdn.io/hls2/02/00026/6afgwfm8b1hu_n/master.m3u8?=TPG_dtesFxdEZEk4I3qPGaaNh66FhDTYnVWTnIXgfng&=1782628922&=14400&=2646498&=.&sp=3000",
+      "calificacion": 5.1,
+      "video": "https://r1.dropcdn.io/hls2/02/00026/6afgwfm8b1hu_n/master.m3u8?=04RcNOzWP7g_ZX-X-uMPHdhpNcl3qXEf3uluwm1vtCY&=1782654897&=14400&=2939662&srv=ds2i&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt1333644",
       "fuente": "CineHDPlus"
     },
     {
@@ -85,8 +71,9 @@
         "Tosin Cole",
         "Hong Chau"
       ],
-      "calificacion": 7.7,
-      "video": "https://ds2.dropcdn.io/hls2/02/00026/ixna71zh27f4_o/master.m3u8?=nkhYDYi4jNLL3YmPeWzNmv8HovvzHNRQHR7exgclrB8&=1782628925&=14400&=2646549&=.&sp=3000",
+      "calificacion": 7.8,
+      "video": "https://r1.dropcdn.io/hls2/02/00026/ixna71zh27f4_o/master.m3u8?=ryhjpHMIwNhDb6PANLdvka5uX4HXWVT6E2B_j2TujHo&=1782654903&=14400&=2939759&srv=ds2i&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt32565993",
       "fuente": "CineHDPlus"
     },
     {
@@ -119,8 +106,9 @@
         "Thalissa Teixeira",
         "Ferdinand Kingsley"
       ],
-      "calificacion": 6.2,
-      "video": "https://ds1.dropcdn.io/hls2/02/00026/qq6zobi3igo6_o/master.m3u8?=X20CrtqnDcsLTN6LjT2L-i_3q4Fl16YfUaDI_cPMEwE&=1782628774&=14400&=2647240&=.&sp=3000",
+      "calificacion": 6.1,
+      "video": "https://r1.dropcdn.io/hls2/02/00026/qq6zobi3igo6_o/master.m3u8?=5yUwsTSu9RL--lsDuHa42IqVDrdiFneVSKupBAdvJ8&=1782654906&=14400&=2939793&srv=ds1i&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt8814476",
       "fuente": "CineHDPlus"
     },
     {
@@ -153,7 +141,8 @@
         "Loup Cousteil"
       ],
       "calificacion": 5.9,
-      "video": "https://r1.dropcdn.io/hls2/03/00021/dnfmbkjhay0v_o/master.m3u8?=Ae9lhizak1QC8zqn2jzenX3-bm8sFvKXm2bPSVkAoyY&=1782628779&=14400&=2647293&srv=ds2i&=.&sp=3000",
+      "video": "https://r1.dropcdn.io/hls2/03/00021/dnfmbkjhay0v_o/master.m3u8?=252rj6kws61JGlZPceT06tmMHwgw4mf39zHKx6wlx5c&=1782654910&=14400&=2939844&srv=ds2i&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt35363310",
       "fuente": "CineHDPlus"
     },
     {
@@ -188,7 +177,8 @@
         "Mike Paterson"
       ],
       "calificacion": 6.4,
-      "video": "https://ds3.dropcdn.io/hls2/02/00026/g2pwlaw97c27_n/master.m3u8?=qnYOSJrOcqEXMILNSjlv4GMjLuNOsS9yS8QfdJukLaI&=1782628783&=14400&=2647365&=.&sp=3000",
+      "video": "https://r1.dropcdn.io/hls2/02/00026/g2pwlaw97c27_n/master.m3u8?=oLzkpSOW4NN9I6WvrhD5Wrce5tRzemnQ1iOsMLM9zXc&=1782654915&=14400&=2939897&srv=ds3i&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt3856042",
       "fuente": "CineHDPlus"
     },
     {
@@ -221,7 +211,8 @@
         "Arina Gancicova"
       ],
       "calificacion": 6.3,
-      "video": "https://ds2.dropcdn.io/hls2/02/00026/t8ead9863o86_n/master.m3u8?=-nX3nukKzJ1s0TcZqQ2rx-fNcH7VC4jDz_DjPyQ2Ago&=1782628787&=14400&=2648539&=.&sp=3000",
+      "video": "https://ds2.dropcdn.io/hls2/02/00026/t8ead9863o86_n/master.m3u8?=uGyl4_Z0MQa3x0O9CJGw6ZgjE7_sFTF1rnMcDmrpnO8&=1782654919&=14400&=2939964&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt7444708",
       "fuente": "CineHDPlus"
     },
     {
@@ -253,7 +244,8 @@
         "Hugo Caprera"
       ],
       "calificacion": 0.0,
-      "video": "https://ds3.dropcdn.io/hls2/02/00026/r1496q34gu0c_n/master.m3u8?=MiqyatquZrcFWm-7OYhYSGG0bDqM-4HhqNQ8y2VgBxc&=1782628791&=14400&=2648622&=.&sp=3000",
+      "video": "https://r1.dropcdn.io/hls2/02/00026/r1496q34gu0c_n/master.m3u8?=Y4cmyIKgwHkLrRZlq_LPAbNFCBtHQsJA5eGAqiT3jBQ&=1782654923&=14400&=2940051&srv=ds3i&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt0119311",
       "fuente": "CineHDPlus"
     },
     {
@@ -288,7 +280,8 @@
         "Lázaro Ramos"
       ],
       "calificacion": 6.1,
-      "video": "https://ds2.dropcdn.io/hls2/01/00026/4z35a4hwqdpm_o/master.m3u8?=jPOAplbuSMNWUQ8eSEivr9pdd408lpdEAjjbv4V-h6M&=1782628795&=14400&=2648684&=.&sp=3000",
+      "video": "https://r1.dropcdn.io/hls2/01/00026/4z35a4hwqdpm_o/master.m3u8?=u1k-Ur53zZ5ejue7tLlzTq_kCqszNI3Og9hfUYeQwPY&=1782654930&=14400&=2940143&srv=ds2i&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt0206420",
       "fuente": "CineHDPlus"
     },
     {
@@ -323,7 +316,8 @@
         "Jeannette Lehr"
       ],
       "calificacion": 7.6,
-      "video": "https://ds3.dropcdn.io/hls2/02/00026/82vnad352mbn_n/master.m3u8?=4T0Ob6_rOkjbjsSp3bd-k6FeZ_tdNbAq-rhdFVetS58&=1782628799&=14400&=2648760&=.&sp=3000",
+      "video": "https://r1.dropcdn.io/hls2/02/00026/82vnad352mbn_n/master.m3u8?=bWj1y-2qENj2trvkXEWCWL_MQZeztFUiMzHgw2kifZ4&=1782654934&=14400&=2940204&srv=ds3i&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt6955298",
       "fuente": "CineHDPlus"
     },
     {
@@ -357,8 +351,9 @@
         "Darren Martens",
         "Sydney Sabiston"
       ],
-      "calificacion": 6.3,
-      "video": "https://r1.dropcdn.io/hls2/02/00016/24txt30mbgcl_n/master.m3u8?=1ipXKQGvRbJJ0gxOch0AcrjK336K0JjOzXFL5hi2eF4&=1782628803&=14400&=2648812&srv=ds2i&=.&sp=3000",
+      "calificacion": 6.4,
+      "video": "https://r1.dropcdn.io/hls2/02/00016/24txt30mbgcl_n/master.m3u8?=Zoa27joFd7XjqkOiZQGnccWyeIK5O4kqGkxZxgr-Qac&=1782654939&=14400&=2940261&srv=ds2i&=.&sp=3000",
+      "video_original": "https://verhdlink.cam/movie/tt1764551",
       "fuente": "CineHDPlus"
     }
   ],
