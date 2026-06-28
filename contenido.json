@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-06-28 01:00:00",
+  "ultima_actualizacion": "2026-06-28 01:15:00",
   "total_peliculas": 2,
   "peliculas": [
     {
@@ -8,12 +8,12 @@
       "portada": "https://cinehdplus.zone/uploads/posts/2026-05/1779426682-836366748.webp",
       "banner": "https://image.tmdb.org/t/p/w1280/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
       "categorias": [
-        "Acción",
+        "Accion",
         "Aventura",
-        "Ciencia ficción"
+        "Ciencia ficcion"
       ],
-      "descripcion": "Continuación de la serie The Mandalorian en forma de película.",
-      "año": "2026",
+      "descripcion": "Continuacion de la serie The Mandalorian en forma de pelicula.",
+      "anio": "2026",
       "pais": [
         "United States of America"
       ],
@@ -33,12 +33,12 @@
       "portada": "https://repelishd.ceo/uploads/posts/2026-06/4c514bf4b5_jackass-la-ultima-y-nos-vamos.jpg",
       "banner": "https://image.tmdb.org/t/p/w1280/om1hoP6W0j54esiYMi9meYZ90Vq.jpg",
       "categorias": [
-        "Acción",
+        "Accion",
         "Comedia",
         "Documental"
       ],
-      "descripcion": "Sigue al equipo de Jackass en su última serie de acrobacias.",
-      "año": "2026",
+      "descripcion": "Sigue al equipo de Jackass en su ultima serie de acrobacias.",
+      "anio": "2026",
       "pais": [
         "United States of America"
       ],
