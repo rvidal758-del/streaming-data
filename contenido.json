@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-06-28 03:38:35",
-  "total_peliculas": 1,
+  "ultima_actualizacion": "2026-06-28 03:40:06",
+  "total_peliculas": 11,
   "peliculas": [
     {
       "id": "repelishd",
@@ -16,6 +16,350 @@
       "calificacion": "6.0",
       "video": "https://r1.dropcdn.io/hls2/02/00026/qq6zobi3igo6_o/master.m3u8?=vbCTT9STsxWrrsOqoYnBvJRUqq-FuzcLlDAE83Tg3kg&=1782628188&=14400&=2647240&srv=ds1i&=.&sp=3000",
       "fuente": "RepelisHD"
+    },
+    {
+      "id": "el-manuscrito-de-dante",
+      "titulo": "El manuscrito de Dante",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782350907-220439008.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/6pb3DTtHYh6ChqsmX9yFEX9GXVt.jpg",
+      "categorias": [
+        "Drama",
+        "Crimen"
+      ],
+      "descripcion": "Cuando el supuesto manuscrito original de 'La Divina Comedia' emerge en los peligrosos bajos fondos de Nueva York, la mafia llama al erudito Nick para autenticarlo. Abrumado por la tentación, Nick roba el manuscrito, emprendiendo un camino oscuro y violento desde un metafórico infierno hasta el para",
+      "año": "2026",
+      "pais": [
+        "Chile",
+        "Italy",
+        "United Kingdom",
+        "United States of America"
+      ],
+      "director": [
+        "Julian Schnabel"
+      ],
+      "actores": [
+        "Oscar Isaac",
+        "Gal Gadot",
+        "Gerard Butler",
+        "John Malkovich",
+        "Louis Cancelmi",
+        "Sabrina Impacciatore",
+        "Franco Nero",
+        "Benjamin Clementine",
+        "Paolo Bonacelli",
+        "Martin Scorsese"
+      ],
+      "calificacion": 5.2,
+      "video": "https://verhdlink.cam/movie/tt1333644",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "las-ovejas-detectives",
+      "titulo": "Las ovejas detectives",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-05/1779243922_las-ovejas-detectives.jpg",
+      "banner": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "categorias": [
+        "Comedia",
+        "Crimen",
+        "Misterio",
+        "Familia"
+      ],
+      "descripcion": "Cada noche, un pastor lee una novela policíaca, imaginando que sus ovejas pueden entenderla. Cuando lo encuentran muerto, las ovejas se dan cuenta de que se trata de un asesinato y creen saber todo lo necesario para resolverlo...",
+      "año": "2026",
+      "pais": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "director": [
+        "Kyle Balda"
+      ],
+      "actores": [
+        "Hugh Jackman",
+        "Julia Louis-Dreyfus",
+        "Emma Thompson",
+        "Nicholas Braun",
+        "Chris O'Dowd",
+        "Bryan Cranston",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Tosin Cole",
+        "Hong Chau"
+      ],
+      "calificacion": 7.7,
+      "video": "https://verhdlink.cam/movie/tt32565993",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "supergirl",
+      "titulo": "Supergirl",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782463783-812512776.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/vk5IwZNS35wh6rNmqB1ns6XuiyI.jpg",
+      "categorias": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "descripcion": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que ",
+      "año": "2026",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Craig Gillespie"
+      ],
+      "actores": [
+        "Milly Alcock",
+        "Eve Ridley",
+        "Matthias Schoenaerts",
+        "Jason Momoa",
+        "David Krumholtz",
+        "Emily Beecham",
+        "David Corenswet",
+        "Kadiff Kirwan",
+        "Thalissa Teixeira",
+        "Ferdinand Kingsley"
+      ],
+      "calificacion": 6.2,
+      "video": "https://ds1.dropcdn.io/hls2/02/00026/qq6zobi3igo6_o/master.m3u8?=X20CrtqnDcsLTN6LjT2L-i_3q4Fl16YfUaDI_cPMEwE&=1782628774&=14400&=2647240&=.&sp=3000",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "los-miserables-el-origen",
+      "titulo": "Los miserables. El origen",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352964-487935864.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/rkxhSUzYWfhRYWK2JCy7yhwIWny.jpg",
+      "categorias": [
+        "Drama",
+        "Historia"
+      ],
+      "descripcion": "1815. Jean Valjean sale del presidio, destrozado, rechazado por todos. Vagando sin rumbo, encuentra refugio en casa de un clérigo, su hermana y su sirviente. Ante esta mano tendida, Jean Valjean vacila y, en esa noche suspendida, deberá elegir en quién quiere convertirse...fuente",
+      "año": "2025",
+      "pais": [
+        "France"
+      ],
+      "director": [
+        "Éric Besnard"
+      ],
+      "actores": [
+        "Grégory Gadebois",
+        "Bernard Campan",
+        "Isabelle Carré",
+        "Alexandra Lamy",
+        "Dominique Pinon",
+        "Albert Dupontel",
+        "Laura Behague",
+        "Romane Libert",
+        "Patrick Pineau",
+        "Loup Cousteil"
+      ],
+      "calificacion": 5.9,
+      "video": "https://r1.dropcdn.io/hls2/03/00021/dnfmbkjhay0v_o/master.m3u8?=Ae9lhizak1QC8zqn2jzenX3-bm8sFvKXm2bPSVkAoyY&=1782628779&=14400&=2647293&srv=ds2i&=.&sp=3000",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "un-dia-de-pelos",
+      "titulo": "Un día de pelos",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352756-286034195.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/tzlgd1gzYxtzCfwoxT6lEls1v7s.jpg",
+      "categorias": [
+        "Comedia",
+        "Aventura",
+        "Película de TV",
+        "Familia"
+      ],
+      "descripcion": "Monica es una adolescente experta de la tecnología en el instituto, decidida a ser coronada reina del baile. Pero en el gran día, todo lo que puede salir mal sale mal, empezando por su pelo repentinamente destrozado, y por su precioso vestido de fiesta, que queda destruido. Pronto se llega a depende",
+      "año": "2015",
+      "pais": [
+        "Canada"
+      ],
+      "director": [
+        "Érik Canuel"
+      ],
+      "actores": [
+        "Laura Marano",
+        "Leigh-Allyn Baker",
+        "Christian Campbell",
+        "Kiana Madeira",
+        "Christian Paul",
+        "Alain Goulem",
+        "Jake Manley",
+        "Zoé De Grand Maison",
+        "André Bédard",
+        "Mike Paterson"
+      ],
+      "calificacion": 6.4,
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/g2pwlaw97c27_n/master.m3u8?=qnYOSJrOcqEXMILNSjlv4GMjLuNOsS9yS8QfdJukLaI&=1782628783&=14400&=2647365&=.&sp=3000",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "la-renuncia-de-una-madre",
+      "titulo": "La renuncia de una madre",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352632-992641530.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/3RMrzFj5YWGlJF8fC1fEqTnSbl3.jpg",
+      "categorias": [
+        "Suspense",
+        "Película de TV"
+      ],
+      "descripcion": "Cuando la hermana de Nikki entra en prisión le cede a su hija con la promesa de no querer recuperarla nunca. La niña crece feliz como una hija más, pero siete años más tarde su madre biológica regresa...fuente",
+      "año": "2017",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Farhad Mann"
+      ],
+      "actores": [
+        "Jenny Gabrielle",
+        "April Bowlby",
+        "Amber Lynn Ashley",
+        "Ryan Jason Cook",
+        "J.D. Garfield",
+        "Allyson Harbert",
+        "Matt Page",
+        "Brytnee Ratledge",
+        "Matthew Van Wettering",
+        "Arina Gancicova"
+      ],
+      "calificacion": 6.3,
+      "video": "https://ds2.dropcdn.io/hls2/02/00026/t8ead9863o86_n/master.m3u8?=-nX3nukKzJ1s0TcZqQ2rx-fNcH7VC4jDz_DjPyQ2Ago&=1782628787&=14400&=2648539&=.&sp=3000",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "hampones",
+      "titulo": "Hampones",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352133-633341957.webp",
+      "banner": "",
+      "categorias": [
+        "Misterio"
+      ],
+      "descripcion": "Nueva York, años treinta. Un gángster negro se hace cargo del negocio de las loterías de Harlem tras el ingreso en prisión de la mujer para la que trabajaba como guardaespaldas. La próspera marcha del negocio provocará las iras de otros gángsteres como Dutch Schultz y Lucky Luciano...fuente",
+      "año": "1961",
+      "pais": [
+        "Argentina"
+      ],
+      "director": [
+        "Alberto D'Aversa"
+      ],
+      "actores": [
+        "Golde Flami",
+        "Mario Cabré",
+        "Guillermo Battaglia",
+        "Noemí Laserre",
+        "Beto Gianola",
+        "Nino Persello",
+        "Elida Gay Palmer",
+        "Luis Orbegoso",
+        "Rodolfo Onetto",
+        "Hugo Caprera"
+      ],
+      "calificacion": 0.0,
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/r1496q34gu0c_n/master.m3u8?=MiqyatquZrcFWm-7OYhYSGG0bDqM-4HhqNQ8y2VgBxc&=1782628791&=14400&=2648622&=.&sp=3000",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "woman-on-top",
+      "titulo": "Woman on Top",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782351865-140770129.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/fKcnrb49Pp6BJarmF0965ysBIsw.jpg",
+      "categorias": [
+        "Comedia",
+        "Drama",
+        "Romance",
+        "Fantasía"
+      ],
+      "descripcion": "Isabella es una gran cocinera brasileña que ha permitido que el restaurante de su marido en Bahia sea un éxito. Para controlar su enfermedad, debe colocarse encima de su marido, Toninho, cuando practican el sexo, lo que conduce a su machista esposo a cometer toda clase de infidelidades. Despechada l",
+      "año": "2000",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Fina Torres"
+      ],
+      "actores": [
+        "Penélope Cruz",
+        "Murilo Benício",
+        "Mark Feuerstein",
+        "John de Lancie",
+        "Anne Ramsay",
+        "Ana Gasteyer",
+        "Harold Perrineau",
+        "June Carryl",
+        "Bob Greene",
+        "Lázaro Ramos"
+      ],
+      "calificacion": 6.1,
+      "video": "https://ds2.dropcdn.io/hls2/01/00026/4z35a4hwqdpm_o/master.m3u8?=jPOAplbuSMNWUQ8eSEivr9pdd408lpdEAjjbv4V-h6M&=1782628795&=14400&=2648684&=.&sp=3000",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "el-cuerpo",
+      "titulo": "El cuerpo",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782351721_el-cuerpo.jpg",
+      "banner": "https://image.tmdb.org/t/p/w1280/2xTNftU1KPVLOhnSKRLZ1NwZl7K.jpg",
+      "categorias": [
+        "Comedia",
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "descripcion": "Cuatro amigos se van de cacería. \"Accidentalmente\" uno mata a otro. La discusión sobre qué hacer con el cuerpo llega a puntos impensados...fuente",
+      "año": "2005",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Julio Jiménez"
+      ],
+      "actores": [
+        "Diana Osorio",
+        "Mario Cimarro",
+        "Andrés García",
+        "Lorena Rojas",
+        "Erick Elías",
+        "Martín Karpan",
+        "Vanessa Villela",
+        "Roberto Moll",
+        "Anna Silvetti",
+        "Jeannette Lehr"
+      ],
+      "calificacion": 7.6,
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/82vnad352mbn_n/master.m3u8?=4T0Ob6_rOkjbjsSp3bd-k6FeZ_tdNbAq-rhdFVetS58&=1782628799&=14400&=2648760&=.&sp=3000",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "psycho-killer",
+      "titulo": "Psycho Killer",
+      "portada": "https://cinehdplus.zone/uploads/backdrops/tt1764551.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/gMC4KIdHsj37w3kPI7mRUJLC57Q.jpg",
+      "categorias": [
+        "Crimen",
+        "Terror",
+        "Misterio"
+      ],
+      "descripcion": "Tras el brutal asesinato de su esposo, una agente de la patrulla de carreteras de Kansas emprende un viaje para encontrar al culpable. A medida que avanza la búsqueda, se da cuenta de que el responsable es un sádico asesino en serie, y que la profundidad de su depravación mental y sus siniestros pla",
+      "año": "2026",
+      "pais": [
+        "United States of America",
+        "Germany"
+      ],
+      "director": [
+        "Gavin Polone"
+      ],
+      "actores": [
+        "Georgina Campbell",
+        "James Preston Rogers",
+        "Malcolm McDowell",
+        "Logan Miller",
+        "Grace Dove",
+        "Aaron Merke",
+        "Joshua Banman",
+        "Cassandra Ebner",
+        "Darren Martens",
+        "Sydney Sabiston"
+      ],
+      "calificacion": 6.3,
+      "video": "https://r1.dropcdn.io/hls2/02/00016/24txt30mbgcl_n/master.m3u8?=1ipXKQGvRbJJ0gxOch0AcrjK336K0JjOzXFL5hi2eF4&=1782628803&=14400&=2648812&srv=ds2i&=.&sp=3000",
+      "fuente": "CineHDPlus"
     }
   ],
   "total_series": 0,
