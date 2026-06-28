@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-06-28 00:40:00",
+  "ultima_actualizacion": "2026-06-28 01:00:00",
   "total_peliculas": 2,
   "peliculas": [
     {
@@ -12,7 +12,7 @@
         "Aventura",
         "Ciencia ficción"
       ],
-      "descripcion": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa...fuente",
+      "descripcion": "Continuación de la serie The Mandalorian en forma de película.",
       "año": "2026",
       "pais": [
         "United States of America"
@@ -21,16 +21,7 @@
         "Jon Favreau"
       ],
       "actores": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig",
-        "Martin Scorsese",
-        "Hemky Madera"
+        "Pedro Pascal"
       ],
       "calificacion": 6.7,
       "video": "https://verhdlink.cam/movie/tt30825738",
@@ -46,7 +37,7 @@
         "Comedia",
         "Documental"
       ],
-      "descripcion": "Sigue al equipo de Jackass mientras realizan su última serie de acrobacias peligrosas y bromas pesadas, marcando el final de la franquicia...",
+      "descripcion": "Sigue al equipo de Jackass en su última serie de acrobacias.",
       "año": "2026",
       "pais": [
         "United States of America"
@@ -56,15 +47,7 @@
       ],
       "actores": [
         "Johnny Knoxville",
-        "Steve-O",
-        "Chris Pontius",
-        "Jason 'Wee Man' Acuña",
-        "Dave England",
-        "Preston Lacy",
-        "Ehren McGhehey",
-        "Bam Margera",
-        "Sean McInerney",
-        "Davon 'Jasper' Wilson"
+        "Steve-O"
       ],
       "calificacion": 5.0,
       "video": "https://verhdlink.cam/movie/tt39316472",
