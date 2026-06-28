@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-06-28 01:15:00",
-  "total_peliculas": 2,
+  "ultima_actualizacion": "2026-06-28 02:01:56",
+  "total_peliculas": 25,
   "peliculas": [
     {
       "id": "star-wars-the-mandalorian-and-grogu",
@@ -8,12 +8,12 @@
       "portada": "https://cinehdplus.zone/uploads/posts/2026-05/1779426682-836366748.webp",
       "banner": "https://image.tmdb.org/t/p/w1280/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
       "categorias": [
-        "Accion",
+        "Acción",
         "Aventura",
-        "Ciencia ficcion"
+        "Ciencia ficción"
       ],
-      "descripcion": "Continuacion de la serie The Mandalorian en forma de pelicula.",
-      "anio": "2026",
+      "descripcion": "Continuación de la serie The Mandalorian en forma de película.",
+      "año": "2026",
       "pais": [
         "United States of America"
       ],
@@ -33,12 +33,12 @@
       "portada": "https://repelishd.ceo/uploads/posts/2026-06/4c514bf4b5_jackass-la-ultima-y-nos-vamos.jpg",
       "banner": "https://image.tmdb.org/t/p/w1280/om1hoP6W0j54esiYMi9meYZ90Vq.jpg",
       "categorias": [
-        "Accion",
+        "Acción",
         "Comedia",
         "Documental"
       ],
-      "descripcion": "Sigue al equipo de Jackass en su ultima serie de acrobacias.",
-      "anio": "2026",
+      "descripcion": "Sigue al equipo de Jackass en su última serie de acrobacias.",
+      "año": "2026",
       "pais": [
         "United States of America"
       ],
@@ -52,6 +52,762 @@
       "calificacion": 5.0,
       "video": "https://verhdlink.cam/movie/tt39316472",
       "fuente": "RepelisHD"
+    },
+    {
+      "id": "el-manuscrito-de-dante",
+      "titulo": "El manuscrito de Dante",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782350907-220439008.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/6pb3DTtHYh6ChqsmX9yFEX9GXVt.jpg",
+      "categorias": [
+        "Drama",
+        "Crimen"
+      ],
+      "descripcion": "Cuando el supuesto manuscrito original de 'La Divina Comedia' emerge en los peligrosos bajos fondos de Nueva York, la mafia llama al erudito Nick para autenticarlo. Abrumado por la tentación, Nick roba el manuscrito, emprendiendo un camino oscuro y violento desde un metafórico infierno hasta el para",
+      "año": "2026",
+      "pais": [
+        "Chile",
+        "Italy",
+        "United Kingdom",
+        "United States of America"
+      ],
+      "director": [
+        "Julian Schnabel"
+      ],
+      "actores": [
+        "Oscar Isaac",
+        "Gal Gadot",
+        "Gerard Butler",
+        "John Malkovich",
+        "Louis Cancelmi",
+        "Sabrina Impacciatore",
+        "Franco Nero",
+        "Benjamin Clementine",
+        "Paolo Bonacelli",
+        "Martin Scorsese"
+      ],
+      "calificacion": 5.2,
+      "video": "https://verhdlink.cam/movie/tt1333644",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "las-ovejas-detectives",
+      "titulo": "Las ovejas detectives",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-05/1779243922_las-ovejas-detectives.jpg",
+      "banner": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "categorias": [
+        "Comedia",
+        "Crimen",
+        "Misterio",
+        "Familia"
+      ],
+      "descripcion": "Cada noche, un pastor lee una novela policíaca, imaginando que sus ovejas pueden entenderla. Cuando lo encuentran muerto, las ovejas se dan cuenta de que se trata de un asesinato y creen saber todo lo necesario para resolverlo...",
+      "año": "2026",
+      "pais": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "director": [
+        "Kyle Balda"
+      ],
+      "actores": [
+        "Hugh Jackman",
+        "Julia Louis-Dreyfus",
+        "Emma Thompson",
+        "Nicholas Braun",
+        "Chris O'Dowd",
+        "Bryan Cranston",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Tosin Cole",
+        "Hong Chau"
+      ],
+      "calificacion": 7.7,
+      "video": "https://verhdlink.cam/movie/tt32565993",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "supergirl",
+      "titulo": "Supergirl",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782463783-812512776.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/vk5IwZNS35wh6rNmqB1ns6XuiyI.jpg",
+      "categorias": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "descripcion": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que ",
+      "año": "2026",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Craig Gillespie"
+      ],
+      "actores": [
+        "Milly Alcock",
+        "Eve Ridley",
+        "Matthias Schoenaerts",
+        "Jason Momoa",
+        "David Krumholtz",
+        "Emily Beecham",
+        "David Corenswet",
+        "Kadiff Kirwan",
+        "Thalissa Teixeira",
+        "Ferdinand Kingsley"
+      ],
+      "calificacion": 6.2,
+      "video": "https://verhdlink.cam/movie/tt8814476",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "los-miserables-el-origen",
+      "titulo": "Los miserables. El origen",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352964-487935864.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/rkxhSUzYWfhRYWK2JCy7yhwIWny.jpg",
+      "categorias": [
+        "Drama",
+        "Historia"
+      ],
+      "descripcion": "1815. Jean Valjean sale del presidio, destrozado, rechazado por todos. Vagando sin rumbo, encuentra refugio en casa de un clérigo, su hermana y su sirviente. Ante esta mano tendida, Jean Valjean vacila y, en esa noche suspendida, deberá elegir en quién quiere convertirse...fuente",
+      "año": "2025",
+      "pais": [
+        "France"
+      ],
+      "director": [
+        "Éric Besnard"
+      ],
+      "actores": [
+        "Grégory Gadebois",
+        "Bernard Campan",
+        "Isabelle Carré",
+        "Alexandra Lamy",
+        "Dominique Pinon",
+        "Albert Dupontel",
+        "Laura Behague",
+        "Romane Libert",
+        "Patrick Pineau",
+        "Loup Cousteil"
+      ],
+      "calificacion": 5.9,
+      "video": "https://verhdlink.cam/movie/tt35363310",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "un-dia-de-pelos",
+      "titulo": "Un día de pelos",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352756-286034195.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/tzlgd1gzYxtzCfwoxT6lEls1v7s.jpg",
+      "categorias": [
+        "Comedia",
+        "Aventura",
+        "Película de TV",
+        "Familia"
+      ],
+      "descripcion": "Monica es una adolescente experta de la tecnología en el instituto, decidida a ser coronada reina del baile. Pero en el gran día, todo lo que puede salir mal sale mal, empezando por su pelo repentinamente destrozado, y por su precioso vestido de fiesta, que queda destruido. Pronto se llega a depende",
+      "año": "2015",
+      "pais": [
+        "Canada"
+      ],
+      "director": [
+        "Érik Canuel"
+      ],
+      "actores": [
+        "Laura Marano",
+        "Leigh-Allyn Baker",
+        "Christian Campbell",
+        "Kiana Madeira",
+        "Christian Paul",
+        "Alain Goulem",
+        "Jake Manley",
+        "Zoé De Grand Maison",
+        "André Bédard",
+        "Mike Paterson"
+      ],
+      "calificacion": 6.4,
+      "video": "https://verhdlink.cam/movie/tt3856042",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "la-renuncia-de-una-madre",
+      "titulo": "La renuncia de una madre",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352632-992641530.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/3RMrzFj5YWGlJF8fC1fEqTnSbl3.jpg",
+      "categorias": [
+        "Suspense",
+        "Película de TV"
+      ],
+      "descripcion": "Cuando la hermana de Nikki entra en prisión le cede a su hija con la promesa de no querer recuperarla nunca. La niña crece feliz como una hija más, pero siete años más tarde su madre biológica regresa...fuente",
+      "año": "2017",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Farhad Mann"
+      ],
+      "actores": [
+        "Jenny Gabrielle",
+        "April Bowlby",
+        "Amber Lynn Ashley",
+        "Ryan Jason Cook",
+        "J.D. Garfield",
+        "Allyson Harbert",
+        "Matt Page",
+        "Brytnee Ratledge",
+        "Matthew Van Wettering",
+        "Arina Gancicova"
+      ],
+      "calificacion": 6.3,
+      "video": "https://verhdlink.cam/movie/tt7444708",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "hampones",
+      "titulo": "Hampones",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352133-633341957.webp",
+      "banner": "",
+      "categorias": [
+        "Misterio"
+      ],
+      "descripcion": "Nueva York, años treinta. Un gángster negro se hace cargo del negocio de las loterías de Harlem tras el ingreso en prisión de la mujer para la que trabajaba como guardaespaldas. La próspera marcha del negocio provocará las iras de otros gángsteres como Dutch Schultz y Lucky Luciano...fuente",
+      "año": "1961",
+      "pais": [
+        "Argentina"
+      ],
+      "director": [
+        "Alberto D'Aversa"
+      ],
+      "actores": [
+        "Golde Flami",
+        "Mario Cabré",
+        "Guillermo Battaglia",
+        "Noemí Laserre",
+        "Beto Gianola",
+        "Nino Persello",
+        "Elida Gay Palmer",
+        "Luis Orbegoso",
+        "Rodolfo Onetto",
+        "Hugo Caprera"
+      ],
+      "calificacion": 0.0,
+      "video": "https://verhdlink.cam/movie/tt0119311",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "woman-on-top",
+      "titulo": "Woman on Top",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782351865-140770129.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/fKcnrb49Pp6BJarmF0965ysBIsw.jpg",
+      "categorias": [
+        "Comedia",
+        "Drama",
+        "Romance",
+        "Fantasía"
+      ],
+      "descripcion": "Isabella es una gran cocinera brasileña que ha permitido que el restaurante de su marido en Bahia sea un éxito. Para controlar su enfermedad, debe colocarse encima de su marido, Toninho, cuando practican el sexo, lo que conduce a su machista esposo a cometer toda clase de infidelidades. Despechada l",
+      "año": "2000",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Fina Torres"
+      ],
+      "actores": [
+        "Penélope Cruz",
+        "Murilo Benício",
+        "Mark Feuerstein",
+        "John de Lancie",
+        "Anne Ramsay",
+        "Ana Gasteyer",
+        "Harold Perrineau",
+        "June Carryl",
+        "Bob Greene",
+        "Lázaro Ramos"
+      ],
+      "calificacion": 6.1,
+      "video": "https://verhdlink.cam/movie/tt0206420",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "el-cuerpo",
+      "titulo": "El cuerpo",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782351721_el-cuerpo.jpg",
+      "banner": "https://image.tmdb.org/t/p/w1280/2xTNftU1KPVLOhnSKRLZ1NwZl7K.jpg",
+      "categorias": [
+        "Comedia",
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "descripcion": "Cuatro amigos se van de cacería. \"Accidentalmente\" uno mata a otro. La discusión sobre qué hacer con el cuerpo llega a puntos impensados...fuente",
+      "año": "2005",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Julio Jiménez"
+      ],
+      "actores": [
+        "Diana Osorio",
+        "Mario Cimarro",
+        "Andrés García",
+        "Lorena Rojas",
+        "Erick Elías",
+        "Martín Karpan",
+        "Vanessa Villela",
+        "Roberto Moll",
+        "Anna Silvetti",
+        "Jeannette Lehr"
+      ],
+      "calificacion": 7.6,
+      "video": "https://verhdlink.cam/movie/tt6955298",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "psycho-killer",
+      "titulo": "Psycho Killer",
+      "portada": "https://cinehdplus.zone/uploads/backdrops/tt1764551.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/gMC4KIdHsj37w3kPI7mRUJLC57Q.jpg",
+      "categorias": [
+        "Crimen",
+        "Terror",
+        "Misterio"
+      ],
+      "descripcion": "Tras el brutal asesinato de su esposo, una agente de la patrulla de carreteras de Kansas emprende un viaje para encontrar al culpable. A medida que avanza la búsqueda, se da cuenta de que el responsable es un sádico asesino en serie, y que la profundidad de su depravación mental y sus siniestros pla",
+      "año": "2026",
+      "pais": [
+        "United States of America",
+        "Germany"
+      ],
+      "director": [
+        "Gavin Polone"
+      ],
+      "actores": [
+        "Georgina Campbell",
+        "James Preston Rogers",
+        "Malcolm McDowell",
+        "Logan Miller",
+        "Grace Dove",
+        "Aaron Merke",
+        "Joshua Banman",
+        "Cassandra Ebner",
+        "Darren Martens",
+        "Sydney Sabiston"
+      ],
+      "calificacion": 6.3,
+      "video": "https://verhdlink.cam/movie/tt1764551",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "las-cronicas-de-narnia-el-leon-la-bruja-y-el-armario",
+      "titulo": "Las crónicas de Narnia: El león, la bruja y el armario",
+      "portada": "https://cinehdplus.zone/uploads/backdrops/tt0363771.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+      "categorias": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
+      ],
+      "descripcion": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo incr",
+      "año": "2005",
+      "pais": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "director": [
+        "Andrew Adamson"
+      ],
+      "actores": [
+        "William Moseley",
+        "Anna Popplewell",
+        "Skandar Keynes",
+        "Georgie Henley",
+        "Liam Neeson",
+        "Tilda Swinton",
+        "James McAvoy",
+        "Jim Broadbent",
+        "Ray Winstone",
+        "Dawn French"
+      ],
+      "calificacion": 7.1,
+      "video": "https://verhdlink.cam/movie/tt0363771",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "las-cronicas-de-narnia-el-principe-caspian",
+      "titulo": "Las crónicas de Narnia: El príncipe Caspian",
+      "portada": "https://cinehdplus.zone/uploads/backdrops/tt0499448.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/9pBv1BOSloAUgAkF0meJWdnbV4Q.jpg",
+      "categorias": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
+      ],
+      "descripcion": "Un año después de los increíbles acontecimientos de \"El León, la Bruja y el Armario\", los reyes y las reinas de Narnia -los 4 hermanos Pevensie- vuelven a reunirse en ese remoto y fantástico mundo, donde descubrirán que han pasado más de 1.300 años, calculados en tiempo narniano. Durante su ausencia",
+      "año": "2008",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Andrew Adamson"
+      ],
+      "actores": [
+        "William Moseley",
+        "Anna Popplewell",
+        "Skandar Keynes",
+        "Georgie Henley",
+        "Ben Barnes",
+        "Tilda Swinton",
+        "Peter Dinklage",
+        "Sergio Castellitto",
+        "Suzy Eddie Izzard",
+        "Liam Neeson"
+      ],
+      "calificacion": 6.6,
+      "video": "https://verhdlink.cam/movie/tt0499448",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "las-cronicas-de-narnia-la-travesia-del-viajero-del-alba",
+      "titulo": "Las crónicas de Narnia: La travesía del viajero del alba",
+      "portada": "https://cinehdplus.zone/uploads/backdrops/tt0980970.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/oc3be3waruLd0PB9h4bomN7Le3v.jpg",
+      "categorias": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
+      ],
+      "descripcion": "Tercera entrega de la saga literaria creada por C.S. Lewis. En esta ocasión, los hermanos Edmund y Lucy Pevensie y su primo Eustace embarcan en la nave \"El Viajero del Alba\" para buscar a los siete caballeros que han sido expulsados del reino por Miraz, el usurpador del trono de Narnia...fuente",
+      "año": "2010",
+      "pais": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "director": [
+        "Michael Apted"
+      ],
+      "actores": [
+        "Georgie Henley",
+        "Skandar Keynes",
+        "Ben Barnes",
+        "Will Poulter",
+        "Anna Popplewell",
+        "Tilda Swinton",
+        "William Moseley",
+        "Simon Pegg",
+        "Liam Neeson",
+        "Laura Brent"
+      ],
+      "calificacion": 6.4,
+      "video": "https://verhdlink.cam/movie/tt0980970",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "atacada-la-teoria-del-dolor",
+      "titulo": "Atacada. La teoría del dolor",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782265887-685728258.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/3b3INRZTYomd9IJyDlP4TAKoyt8.jpg",
+      "categorias": [
+        "Suspense"
+      ],
+      "descripcion": "Una joven mujer es violentada sexualmente por un poderoso empresario iniciándose así una confrontación pública en la que tendrá que soportar los abusos de quienes no desean se haga justicia..fuente",
+      "año": "2015",
+      "pais": [
+        "Peru"
+      ],
+      "director": [
+        "Aldo Miyashiro"
+      ],
+      "actores": [
+        "Érika Villalobos",
+        "Jason Day",
+        "Gustavo Cesti",
+        "Pierina Carcelén",
+        "Cristian Rivero",
+        "Carlos Gassols"
+      ],
+      "calificacion": 7.3,
+      "video": "https://verhdlink.cam/movie/tt4720718",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "la-isla-de-los-secretos",
+      "titulo": "La isla de los secretos",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782265782_la-isla-de-los-secretos.jpg",
+      "banner": "",
+      "categorias": [
+        "Documental"
+      ],
+      "descripcion": "Los tres jóvenes protagonistas de la historia se sienten fascinados por una joven griega. Un grupo de contrabandistas la secuestra, así que los tres chicos diseñan un plan para liberarla e impedir que los malvados consigan hacerse con los tesoros de una cueva...fuente",
+      "año": "2022",
+      "pais": [
+        "Argentina"
+      ],
+      "director": [
+        "Silvia Maturana",
+        "Pablo Navarro Espejo"
+      ],
+      "actores": [],
+      "calificacion": 0.0,
+      "video": "https://verhdlink.cam/movie/tt3358328",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "tods-caen",
+      "titulo": "Tod@s Caen",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782265576-700941810.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/9Ef8abhHjuqyCNlhscEohNXsLJj.jpg",
+      "categorias": [
+        "Comedia"
+      ],
+      "descripcion": "Adán y Mía son dos estrategas que quieren enseñarles a sus respectivos amigos las reglas para ganar el juego de ligar. En un bar se conocen y a partir de ahí, usarán sus técnicas para enamorar el uno al otro en una serie de cómicos enredos y lucha de poderes, en la que quien se enamora primero… pier",
+      "año": "2019",
+      "pais": [
+        "Mexico"
+      ],
+      "director": [
+        "Ariel Winograd"
+      ],
+      "actores": [
+        "Martha Higareda",
+        "Omar Chaparro",
+        "Claudia Álvarez",
+        "Mauricio Barrientos",
+        "Consuelo Duval",
+        "Miriam Higareda",
+        "Tiaré Scanda",
+        "Edgar Vivar",
+        "Elizabeth Guindi",
+        "Anabel Ferreira"
+      ],
+      "calificacion": 7.8,
+      "video": "https://verhdlink.cam/movie/tt7549776",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "grind",
+      "titulo": "Grind",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782265261-468624027.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/5DSsPOA54cb5ffIqJX9Dp5IKgtb.jpg",
+      "categorias": [
+        "Acción",
+        "Comedia",
+        "Aventura"
+      ],
+      "descripcion": "Un grupo de estudiantes universitarios organiza un festival de cine Grindhouse a medianoche. Descubren un cine de terror de autor maldito llamado «The Creeping Chaos». Al estilo clásico del terror, proyectan la película por error y desatan un caos absoluto...fuente",
+      "año": "2003",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Casey La Scala"
+      ],
+      "actores": [
+        "Mike Vogel",
+        "Vince Vieluf",
+        "Adam Brody",
+        "Joey Kern",
+        "Jennifer Morrison",
+        "Bam Margera",
+        "Jason London",
+        "Summer Altice",
+        "Erin Murphy",
+        "Baron La Scala"
+      ],
+      "calificacion": 6.0,
+      "video": "https://verhdlink.cam/movie/tt28212637",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "action-action",
+      "titulo": "Action! Action!",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782265023_action-action.jpg",
+      "banner": "https://image.tmdb.org/t/p/w1280/7xdJgEnnuEObR4aBI2j21UVO97E.jpg",
+      "categorias": [
+        "Comedia"
+      ],
+      "descripcion": "Un equipo intenta robar la pintura de Al Capone del Museo de la Mafia de Las Vegas. Tras una traición que deja a sus compañeros muertos y el cuadro destruido, se apresuran a descubrir quién los traicionó...",
+      "año": "1999",
+      "pais": [],
+      "director": [
+        "Chris Thompson"
+      ],
+      "actores": [
+        "Jay Mohr",
+        "Illeana Douglas",
+        "Jarrad Paul",
+        "Jack Plotnick",
+        "Lee Arenberg",
+        "Buddy Hackett"
+      ],
+      "calificacion": 6.6,
+      "video": "https://verhdlink.cam/movie/tt15263752",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "citizen-vigilante",
+      "titulo": "Citizen Vigilante",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782181150-108332413.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/3Ckkdh0VTcFPwpBJ6jMAS3qIkgJ.jpg",
+      "categorias": [
+        "Suspense",
+        "Acción",
+        "Crimen"
+      ],
+      "descripcion": "Un hombre decide impartir justicia por su cuenta. Su cruzada lo convierte en un fenómeno de las redes sociales, pero también lo enfrenta al jefe de policía de la ciudad...fuente",
+      "año": "2026",
+      "pais": [
+        "Croatia",
+        "Germany"
+      ],
+      "director": [
+        "Uwe Boll"
+      ],
+      "actores": [
+        "Armie Hammer",
+        "Costas Mandylor",
+        "Dora Dimić Rakar",
+        "Vjekoslav Katušin",
+        "Neb Chupin",
+        "Elizabeth Zacero",
+        "Dunja Sepčić Bogner",
+        "Lennart Betzgen",
+        "Benjamin Schnau",
+        "Tino Trkulja"
+      ],
+      "calificacion": 6.9,
+      "video": "https://verhdlink.cam/movie/tt35309713",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "off-the-grid",
+      "titulo": "Off the Grid",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782180217-509425440.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/jpS4Hg1MjXgmIXYZhJwNPVGJaTG.jpg",
+      "categorias": [
+        "Acción",
+        "Suspense"
+      ],
+      "descripcion": "Un brillante científico se da a la fuga en lugar de convertir su invento en un arma..fuente",
+      "año": "2025",
+      "pais": [
+        "Italy",
+        "United States of America"
+      ],
+      "director": [
+        "Johnny Martin"
+      ],
+      "actores": [
+        "Josh Duhamel",
+        "Greg Kinnear",
+        "María Elisa Camargo",
+        "Peter Stormare",
+        "Ricky Russert",
+        "Michael Zapesotsky",
+        "Joe Bucaro III",
+        "Daniel Farag",
+        "Paul Sampson",
+        "Talia Asseraf"
+      ],
+      "calificacion": 6.1,
+      "video": "https://verhdlink.cam/movie/tt27424511",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "solo-mio",
+      "titulo": "Solo Mio",
+      "portada": "https://cinehdplus.zone/uploads/backdrops/tt32306991.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/eVXBp5BBskAj0RJ6pDSNPcBs1uI.jpg",
+      "categorias": [
+        "Romance",
+        "Comedia"
+      ],
+      "descripcion": "Después de que los sueños de Matt de una pintoresca boda italiana se hacen añicos cuando su prometida lo abandona en el altar, se embarca en su luna de miel planeada por Italia solo, sumergiéndose en la vibrante cultura, comida y belleza del país, y conociendo a Gia en el camino...fuente",
+      "año": "2026",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Charles Kinnane",
+        "Daniel Kinnane"
+      ],
+      "actores": [
+        "Kevin James",
+        "Nicole Grimaudo",
+        "Kim Coates",
+        "Jonathan Roumie",
+        "Alyson Hannigan",
+        "Julie Ann Emery",
+        "Julee Cerda",
+        "Andrea Bocelli",
+        "Andrea Logiudice",
+        "Caterina Silva"
+      ],
+      "calificacion": 7.2,
+      "video": "https://verhdlink.cam/movie/tt32306991",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "retratos-de-una-obsesion",
+      "titulo": "Retratos de una obsesión",
+      "portada": "https://cinehdplus.zone/uploads/backdrops/tt0265459.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/uwbp1RJkFR5vhaMJPujoB7Qkkgc.jpg",
+      "categorias": [
+        "Drama",
+        "Suspense"
+      ],
+      "descripcion": "Sy Parrish es un hombre anodino y tímido que dirige desde hace años el laboratorio fotográfico de los grandes almacenes “SavMart”. Vive solo, adora su trabajo y es un auténtico perfeccionista a la hora de revelar los negativos. Cientos de fotos, en las que aparece la familia Yorkin, tapizan las pare",
+      "año": "2002",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Mark Romanek"
+      ],
+      "actores": [
+        "Robin Williams",
+        "Connie Nielsen",
+        "Michael Vartan",
+        "Gary Cole",
+        "Erin Daniels",
+        "Clark Gregg",
+        "Nick Searcy",
+        "Dylan Smith",
+        "Eriq La Salle",
+        "Paul Kim Jr."
+      ],
+      "calificacion": 6.7,
+      "video": "https://verhdlink.cam/movie/tt0265459",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "road-to-everywhere",
+      "titulo": "Road to Everywhere",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782092127_road-to-everywhere.jpg",
+      "banner": "",
+      "categorias": [
+        "Drama"
+      ],
+      "descripcion": "A un taxista de Los Ángeles se le ofrece el viaje de su vida de la mano de un comerciante de casino y jugador local que quiere regresar a la Reserva Navajo, a la casa que abandonó hace 30 años para ver a su nieto competir en un rodeo nativo americano...fuente",
+      "año": "",
+      "pais": [],
+      "director": [
+        "Michael Shoob"
+      ],
+      "actores": [
+        "Whip Hubley",
+        "Daniel Roebuck",
+        "Robert Mirabal",
+        "DezBaa'",
+        "Rawle D. Lewis",
+        "Googy Gress",
+        "Diane DiLascio",
+        "Nicola Bertram",
+        "Coby Larinde",
+        "Payton Morelli"
+      ],
+      "calificacion": 0.0,
+      "video": "https://verhdlink.cam/movie/tt30056610",
+      "fuente": "CineHDPlus"
     }
   ],
   "total_series": 0,
