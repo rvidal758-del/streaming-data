@@ -1,58 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-28 02:01:56",
-  "total_peliculas": 25,
+  "ultima_actualizacion": "2026-06-28 02:30:00",
+  "total_peliculas": 24,
   "peliculas": [
-    {
-      "id": "star-wars-the-mandalorian-and-grogu",
-      "titulo": "Star Wars: The Mandalorian and Grogu",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-05/1779426682-836366748.webp",
-      "banner": "https://image.tmdb.org/t/p/w1280/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
-      "categorias": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "descripcion": "Continuación de la serie The Mandalorian en forma de película.",
-      "año": "2026",
-      "pais": [
-        "United States of America"
-      ],
-      "director": [
-        "Jon Favreau"
-      ],
-      "actores": [
-        "Pedro Pascal"
-      ],
-      "calificacion": 6.7,
-      "video": "https://verhdlink.cam/movie/tt30825738",
-      "fuente": "CineHDPlus"
-    },
-    {
-      "id": "jackass-lo-mejor-para-el-final",
-      "titulo": "Jackass: Lo mejor para el final",
-      "portada": "https://repelishd.ceo/uploads/posts/2026-06/4c514bf4b5_jackass-la-ultima-y-nos-vamos.jpg",
-      "banner": "https://image.tmdb.org/t/p/w1280/om1hoP6W0j54esiYMi9meYZ90Vq.jpg",
-      "categorias": [
-        "Acción",
-        "Comedia",
-        "Documental"
-      ],
-      "descripcion": "Sigue al equipo de Jackass en su última serie de acrobacias.",
-      "año": "2026",
-      "pais": [
-        "United States of America"
-      ],
-      "director": [
-        "Jeff Tremaine"
-      ],
-      "actores": [
-        "Johnny Knoxville",
-        "Steve-O"
-      ],
-      "calificacion": 5.0,
-      "video": "https://verhdlink.cam/movie/tt39316472",
-      "fuente": "RepelisHD"
-    },
     {
       "id": "el-manuscrito-de-dante",
       "titulo": "El manuscrito de Dante",
@@ -86,7 +35,7 @@
         "Martin Scorsese"
       ],
       "calificacion": 5.2,
-      "video": "https://verhdlink.cam/movie/tt1333644",
+      "video": "https://r1.dropcdn.io/hls2/02/00026/6afgwfm8b1hu_n/master.m3u8?=miy0swmUIoA5aSFz0TkBuM8fPyUi4VR9NbMvgS8IDow&=1782623226&=14400&=2646498&srv=ds2i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -122,7 +71,7 @@
         "Hong Chau"
       ],
       "calificacion": 7.7,
-      "video": "https://verhdlink.cam/movie/tt32565993",
+      "video": "https://r1.dropcdn.io/hls2/02/00026/ixna71zh27f4_o/master.m3u8?=_qh4A2lvvhkLCpy-HDax0FTW4mx8PCAjuFPD6XyAWso&=1782623230&=14400&=2646549&srv=ds2i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -156,7 +105,7 @@
         "Ferdinand Kingsley"
       ],
       "calificacion": 6.2,
-      "video": "https://verhdlink.cam/movie/tt8814476",
+      "video": "https://ds1.dropcdn.io/hls2/02/00026/qq6zobi3igo6_o/master.m3u8?=33WIx1HkunqQbfTBhqG0o7TtaaRl3AsxHqJA5mcnNbI&=1782623234&=14400&=2647240&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -189,7 +138,7 @@
         "Loup Cousteil"
       ],
       "calificacion": 5.9,
-      "video": "https://verhdlink.cam/movie/tt35363310",
+      "video": "https://r1.dropcdn.io/hls2/03/00021/dnfmbkjhay0v_o/master.m3u8?=5N_7LLFmt1E8gqXefwR1Iik1RCdY9H1Woj9l71AVBKc&=1782623237&=14400&=2647293&srv=ds2i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -224,7 +173,7 @@
         "Mike Paterson"
       ],
       "calificacion": 6.4,
-      "video": "https://verhdlink.cam/movie/tt3856042",
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/g2pwlaw97c27_n/master.m3u8?=IVxl_QkcnjUBIRL6hshwMl2L222tDOe1cnAcs3ne2jU&=1782623240&=14400&=2647365&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -257,7 +206,7 @@
         "Arina Gancicova"
       ],
       "calificacion": 6.3,
-      "video": "https://verhdlink.cam/movie/tt7444708",
+      "video": "https://ds2.dropcdn.io/hls2/02/00026/t8ead9863o86_n/master.m3u8?=14nHmG-EsI6Z7SFCblHHjSvMz0TW6n2szp7uNZVSwKU&=1782623244&=14400&=2648539&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -289,7 +238,7 @@
         "Hugo Caprera"
       ],
       "calificacion": 0.0,
-      "video": "https://verhdlink.cam/movie/tt0119311",
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/r1496q34gu0c_n/master.m3u8?=WrX30tMnHv2dbh4xDuJ-iHsPmwGmdePWvJGUXwupPF4&=1782623248&=14400&=2648622&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -324,7 +273,7 @@
         "Lázaro Ramos"
       ],
       "calificacion": 6.1,
-      "video": "https://verhdlink.cam/movie/tt0206420",
+      "video": "https://r1.dropcdn.io/hls2/01/00026/4z35a4hwqdpm_o/master.m3u8?=xrxQG6EbIDE73bw4VjYq5A62-39mcXRYIxztuKz0FjM&=1782623252&=14400&=2648684&srv=ds2i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -359,7 +308,7 @@
         "Jeannette Lehr"
       ],
       "calificacion": 7.6,
-      "video": "https://verhdlink.cam/movie/tt6955298",
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/82vnad352mbn_n/master.m3u8?=TxMxI8kZe_bAr8lVzp9f9mS0sAiVqfKJjFM5ktpcnzA&=1782623256&=14400&=2648760&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -394,7 +343,7 @@
         "Sydney Sabiston"
       ],
       "calificacion": 6.3,
-      "video": "https://verhdlink.cam/movie/tt1764551",
+      "video": "https://r1.dropcdn.io/hls2/02/00016/24txt30mbgcl_n/master.m3u8?=DiURrE-ST84sL6lWf24ELFmuZ0FmRTAGhqeht7ZV6oM&=1782623260&=14400&=2648812&srv=ds2i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -429,7 +378,7 @@
         "Dawn French"
       ],
       "calificacion": 7.1,
-      "video": "https://verhdlink.cam/movie/tt0363771",
+      "video": "https://r1.dropcdn.io/hls2/02/00017/gbk9hf1tc7as_o/master.m3u8?=-HZOBAV3ESl0qnCYLuFP75zoxNE7tnyFzKMPwhMH4o&=1782623264&=14400&=2648870&srv=ds1i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -463,7 +412,7 @@
         "Liam Neeson"
       ],
       "calificacion": 6.6,
-      "video": "https://verhdlink.cam/movie/tt0499448",
+      "video": "https://r1.dropcdn.io/hls2/02/00017/d94cydt6kvh2_o/master.m3u8?=iX4nRpR9lUhOPGBXV2VyqEmdCw0f_GmJet6HDFJaCpc&=1782623268&=14400&=2648948&srv=ds1i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -498,7 +447,7 @@
         "Laura Brent"
       ],
       "calificacion": 6.4,
-      "video": "https://verhdlink.cam/movie/tt0980970",
+      "video": "https://r1.dropcdn.io/hls2/02/00017/qup8bx0abbj7_o/master.m3u8?=REFH2zu74kQAfchj9-Mh4KWLv_kygAhs7wXo2m7hMj8&=1782623272&=14400&=2649017&srv=ds1i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -526,7 +475,7 @@
         "Carlos Gassols"
       ],
       "calificacion": 7.3,
-      "video": "https://verhdlink.cam/movie/tt4720718",
+      "video": "https://ds2.dropcdn.io/hls2/01/00026/kjflgzj6ehkh_o/master.m3u8?=KcOljv7cyoozitDlUpFPP2WGc5vTtW-JbjoyN7Vkl30&=1782623276&=14400&=2649060&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -548,7 +497,7 @@
       ],
       "actores": [],
       "calificacion": 0.0,
-      "video": "https://verhdlink.cam/movie/tt3358328",
+      "video": "https://r1.dropcdn.io/hls2/02/00026/5i2w8om6gdvw_n/master.m3u8?=kJz-nZrYOJtVaS1sYOjhT_BKzC-6ZsPtk9ntqTygBbg&=1782623281&=14400&=2649102&srv=ds2i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -580,7 +529,7 @@
         "Anabel Ferreira"
       ],
       "calificacion": 7.8,
-      "video": "https://verhdlink.cam/movie/tt7549776",
+      "video": "https://r1.dropcdn.io/hls2/02/00026/epnrq2cy4aqb_n/master.m3u8?=nwUNiYU70A9oC66loGNCWs8Cp_ZAU4DN40bOhgSB0EI&=1782623285&=14400&=2649161&srv=ds2i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -614,7 +563,7 @@
         "Baron La Scala"
       ],
       "calificacion": 6.0,
-      "video": "https://verhdlink.cam/movie/tt28212637",
+      "video": "https://ds3.dropcdn.io/hls2/03/00026/uz5v516mnyqq_n/master.m3u8?=ujH8o-pilR_N6PdXZSS_TzO17hy49LZ9pzX-alX9ZDQ&=1782623289&=14400&=2649232&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -640,7 +589,7 @@
         "Buddy Hackett"
       ],
       "calificacion": 6.6,
-      "video": "https://verhdlink.cam/movie/tt15263752",
+      "video": "https://r1.dropcdn.io/hls2/02/00026/uj4kv6lamldo_o/master.m3u8?=MdUCGEVJ0nqG13zv1qj8v1LvKqqDuH5g9cz2W65x_mI&=1782623294&=14400&=2649295&srv=ds1i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -675,7 +624,7 @@
         "Tino Trkulja"
       ],
       "calificacion": 6.9,
-      "video": "https://verhdlink.cam/movie/tt35309713",
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/u7o9v1gkt7aa_n/master.m3u8?=gkH3oWfAK6G2wNjyWFWG7YPZRXIvu8v0PCQ-QtIoRPY&=1782623298&=14400&=2649381&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -709,7 +658,41 @@
         "Talia Asseraf"
       ],
       "calificacion": 6.1,
-      "video": "https://verhdlink.cam/movie/tt27424511",
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/ziizluncqr2e_n/master.m3u8?=1XAHqt0oE5L6CnpQnkJCplO35EqnzCDwfpmBCkkRdzQ&=1782623302&=14400&=2649458&=.&sp=3000",
+      "fuente": "CineHDPlus"
+    },
+    {
+      "id": "star-wars-the-mandalorian-and-grogu",
+      "titulo": "Star Wars: The Mandalorian and Grogu",
+      "portada": "https://cinehdplus.zone/uploads/posts/2026-05/1779426682-836366748.webp",
+      "banner": "https://image.tmdb.org/t/p/w1280/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
+      "categorias": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "descripcion": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa...fuente",
+      "año": "2026",
+      "pais": [
+        "United States of America"
+      ],
+      "director": [
+        "Jon Favreau"
+      ],
+      "actores": [
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig",
+        "Martin Scorsese",
+        "Hemky Madera"
+      ],
+      "calificacion": 6.7,
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/8kvulbftixsl_n/master.m3u8?=F7LBHWj6Q9qLdQ2JGwqjsx3-trP2ONtW2uf_ZKYvplU&=1782623305&=14400&=2592176&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -743,7 +726,7 @@
         "Caterina Silva"
       ],
       "calificacion": 7.2,
-      "video": "https://verhdlink.cam/movie/tt32306991",
+      "video": "https://r1.dropcdn.io/hls2/02/00019/es7ul896m93w_o/master.m3u8?=N5vTaI0j55yC50_dRW-yS3jjfcY5GOzxrks3mB4Y9N8&=1782623309&=14400&=2649578&srv=ds2i&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -776,7 +759,7 @@
         "Paul Kim Jr."
       ],
       "calificacion": 6.7,
-      "video": "https://verhdlink.cam/movie/tt0265459",
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/11drbka3x3q4_n/master.m3u8?=v_RYQA7txFHyJtmS0-EKngkHSLxOH4_4889tNlzsk20&=1782623313&=14400&=2649637&=.&sp=3000",
       "fuente": "CineHDPlus"
     },
     {
@@ -806,7 +789,7 @@
         "Payton Morelli"
       ],
       "calificacion": 0.0,
-      "video": "https://verhdlink.cam/movie/tt30056610",
+      "video": "https://ds3.dropcdn.io/hls2/02/00026/99h035yttiwf_n/master.m3u8?=zhdFHcZlXN5CQAly_DEEW6YkwO9cPBZfEzIEcuRoxkc&=1782623317&=14400&=2649718&=.&sp=3000",
       "fuente": "CineHDPlus"
     }
   ],
