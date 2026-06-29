@@ -1,7 +1,28 @@
 {
-  "ultima_actualizacion": "",
-  "total_peliculas": 0,
-  "peliculas": [],
+  "ultima_actualizacion": "2026-06-29 14:26:26",
+  "total_peliculas": 1,
+  "peliculas": [
+    {
+      "id": 920,
+      "titulo": "Cars",
+      "descripcion": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+      "poster": "https://image.tmdb.org/t/p/w500/lgBe9KD6DoLyQP28JZ6fSUGK8j0.jpg",
+      "banner": "https://image.tmdb.org/t/p/w500/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+      "anio": "2006",
+      "calificacion": 7.035,
+      "categorias": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:231E7E19F778689B71C00F6CED4EBD43B88C021F&dn=Mike%27s%20New%20Car",
+      "calidad": "1080p",
+      "size": "72.55 MB",
+      "fuente": "YTS"
+    }
+  ],
   "total_series": 0,
   "series": []
 }
