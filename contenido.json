@@ -1,367 +1,665 @@
 {
-  "ultima_actualizacion": "2026-06-28 11:03:54",
-  "total_peliculas": 11,
+  "ultima_actualizacion": "2026-06-29 12:32:40",
+  "total_peliculas": 20,
   "peliculas": [
     {
-      "id": "repelishd",
-      "titulo": "RePelisHD",
-      "portada": "https://repelishd.ceo/uploads/posts/2026-06/1782463775-949520676.webp",
-      "banner": "",
-      "categorias": [],
-      "descripcion": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que ",
-      "año": "",
-      "pais": [],
-      "director": [],
-      "actores": [],
-      "calificacion": "6.0",
-      "video": "https://r1.dropcdn.io/hls2/02/00026/qq6zobi3igo6_o/master.m3u8?=vbCTT9STsxWrrsOqoYnBvJRUqq-FuzcLlDAE83Tg3kg&=1782628188&=14400&=2647240&srv=ds1i&=.&sp=3000",
-      "fuente": "RepelisHD"
+      "titulo": "Welcome to the Jungle",
+      "descripcion": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "anio": "2026",
+      "calificacion": 5.7,
+      "categorias": [
+        "Action",
+        "Comedy",
+        "Adventure",
+        "Crime"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:0F5710B63A46A21530081CEC2C137483B6C3E62D&dn=Welcome%20to%20the%20Jungle",
+      "calidad": "3.45 GB",
+      "size": "3.45 GB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "el-manuscrito-de-dante",
-      "titulo": "El manuscrito de Dante",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782350907-220439008.webp",
-      "banner": "https://image.tmdb.org/t/p/w1280/6pb3DTtHYh6ChqsmX9yFEX9GXVt.jpg",
+      "titulo": "Disclosure Day",
+      "descripcion": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "anio": "2026",
+      "calificacion": 6.695,
       "categorias": [
-        "Drama",
-        "Crimen"
+        "Sci-Fi",
+        "Thriller"
       ],
-      "descripcion": "Cuando el supuesto manuscrito original de 'La Divina Comedia' emerge en los peligrosos bajos fondos de Nueva York, la mafia llama al erudito Nick para autenticarlo. Abrumado por la tentación, Nick roba el manuscrito, emprendiendo un camino oscuro y violento desde un metafórico infierno hasta el para",
-      "año": "2026",
-      "pais": [
-        "Chile",
-        "Italy",
-        "United Kingdom",
-        "United States of America"
-      ],
-      "director": [
-        "Julian Schnabel"
-      ],
-      "actores": [
-        "Oscar Isaac",
-        "Gal Gadot",
-        "Gerard Butler",
-        "John Malkovich",
-        "Louis Cancelmi",
-        "Sabrina Impacciatore",
-        "Franco Nero",
-        "Benjamin Clementine",
-        "Paolo Bonacelli",
-        "Martin Scorsese"
-      ],
-      "calificacion": 5.2,
-      "video": "https://ds2.dropcdn.io/hls2/02/00026/6afgwfm8b1hu_n/master.m3u8?=TPG_dtesFxdEZEk4I3qPGaaNh66FhDTYnVWTnIXgfng&=1782628922&=14400&=2646498&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:971BBD5DBA70938D2900ABFFA5F53D13E87B6748&dn=Disclosure%20Day%202026%20D%20TELECINE",
+      "calidad": "2.05 GB",
+      "size": "2.05 GB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "las-ovejas-detectives",
-      "titulo": "Las ovejas detectives",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-05/1779243922_las-ovejas-detectives.jpg",
-      "banner": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "titulo": "Toy Story 5",
+      "descripcion": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "poster": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
+      "anio": "2026",
+      "calificacion": 7.5,
       "categorias": [
-        "Comedia",
-        "Crimen",
-        "Misterio",
-        "Familia"
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
       ],
-      "descripcion": "Cada noche, un pastor lee una novela policíaca, imaginando que sus ovejas pueden entenderla. Cuando lo encuentran muerto, las ovejas se dan cuenta de que se trata de un asesinato y creen saber todo lo necesario para resolverlo...",
-      "año": "2026",
-      "pais": [
-        "United States of America",
-        "United Kingdom"
-      ],
-      "director": [
-        "Kyle Balda"
-      ],
-      "actores": [
-        "Hugh Jackman",
-        "Julia Louis-Dreyfus",
-        "Emma Thompson",
-        "Nicholas Braun",
-        "Chris O'Dowd",
-        "Bryan Cranston",
-        "Nicholas Galitzine",
-        "Molly Gordon",
-        "Tosin Cole",
-        "Hong Chau"
-      ],
-      "calificacion": 7.7,
-      "video": "https://ds2.dropcdn.io/hls2/02/00026/ixna71zh27f4_o/master.m3u8?=nkhYDYi4jNLL3YmPeWzNmv8HovvzHNRQHR7exgclrB8&=1782628925&=14400&=2646549&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:E091B46954B17A54DC108A1FB14415C80E4B189C&dn=Toy%20Story%205%20%282026%29%20%C2%BB%20CinemaCity",
+      "calidad": "856.21 MB",
+      "size": "856.21 MB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "supergirl",
-      "titulo": "Supergirl",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782463783-812512776.webp",
-      "banner": "https://image.tmdb.org/t/p/w1280/vk5IwZNS35wh6rNmqB1ns6XuiyI.jpg",
+      "titulo": "Obsession",
+      "descripcion": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "anio": "2026",
+      "calificacion": 7.9,
       "categorias": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
+        "Horror",
+        "Thriller"
       ],
-      "descripcion": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que ",
-      "año": "2026",
-      "pais": [
-        "United States of America"
-      ],
-      "director": [
-        "Craig Gillespie"
-      ],
-      "actores": [
-        "Milly Alcock",
-        "Eve Ridley",
-        "Matthias Schoenaerts",
-        "Jason Momoa",
-        "David Krumholtz",
-        "Emily Beecham",
-        "David Corenswet",
-        "Kadiff Kirwan",
-        "Thalissa Teixeira",
-        "Ferdinand Kingsley"
-      ],
-      "calificacion": 6.2,
-      "video": "https://ds1.dropcdn.io/hls2/02/00026/qq6zobi3igo6_o/master.m3u8?=X20CrtqnDcsLTN6LjT2L-i_3q4Fl16YfUaDI_cPMEwE&=1782628774&=14400&=2647240&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:FE533F4AC3C51579119FB3E365EE2AA9F25B4EC6&dn=Obsession",
+      "calidad": "6.17 GB",
+      "size": "6.17 GB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "los-miserables-el-origen",
-      "titulo": "Los miserables. El origen",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352964-487935864.webp",
-      "banner": "https://image.tmdb.org/t/p/w1280/rkxhSUzYWfhRYWK2JCy7yhwIWny.jpg",
+      "titulo": "Backrooms",
+      "descripcion": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "anio": "2026",
+      "calificacion": 6.878,
       "categorias": [
-        "Drama",
-        "Historia"
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
       ],
-      "descripcion": "1815. Jean Valjean sale del presidio, destrozado, rechazado por todos. Vagando sin rumbo, encuentra refugio en casa de un clérigo, su hermana y su sirviente. Ante esta mano tendida, Jean Valjean vacila y, en esa noche suspendida, deberá elegir en quién quiere convertirse...fuente",
-      "año": "2025",
-      "pais": [
-        "France"
-      ],
-      "director": [
-        "Éric Besnard"
-      ],
-      "actores": [
-        "Grégory Gadebois",
-        "Bernard Campan",
-        "Isabelle Carré",
-        "Alexandra Lamy",
-        "Dominique Pinon",
-        "Albert Dupontel",
-        "Laura Behague",
-        "Romane Libert",
-        "Patrick Pineau",
-        "Loup Cousteil"
-      ],
-      "calificacion": 5.9,
-      "video": "https://r1.dropcdn.io/hls2/03/00021/dnfmbkjhay0v_o/master.m3u8?=Ae9lhizak1QC8zqn2jzenX3-bm8sFvKXm2bPSVkAoyY&=1782628779&=14400&=2647293&srv=ds2i&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:62FC485999129EB1C597429822B59DF69FA21F75&dn=Backrooms",
+      "calidad": "199.53 GB",
+      "size": "199.53 GB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "un-dia-de-pelos",
-      "titulo": "Un día de pelos",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352756-286034195.webp",
-      "banner": "https://image.tmdb.org/t/p/w1280/tzlgd1gzYxtzCfwoxT6lEls1v7s.jpg",
+      "titulo": "Deep Water",
+      "descripcion": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+      "poster": "https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
+      "anio": "2026",
+      "calificacion": 6.142,
       "categorias": [
-        "Comedia",
-        "Aventura",
-        "Película de TV",
-        "Familia"
+        "Thriller",
+        "Horror"
       ],
-      "descripcion": "Monica es una adolescente experta de la tecnología en el instituto, decidida a ser coronada reina del baile. Pero en el gran día, todo lo que puede salir mal sale mal, empezando por su pelo repentinamente destrozado, y por su precioso vestido de fiesta, que queda destruido. Pronto se llega a depende",
-      "año": "2015",
-      "pais": [
-        "Canada"
-      ],
-      "director": [
-        "Érik Canuel"
-      ],
-      "actores": [
-        "Laura Marano",
-        "Leigh-Allyn Baker",
-        "Christian Campbell",
-        "Kiana Madeira",
-        "Christian Paul",
-        "Alain Goulem",
-        "Jake Manley",
-        "Zoé De Grand Maison",
-        "André Bédard",
-        "Mike Paterson"
-      ],
-      "calificacion": 6.4,
-      "video": "https://ds3.dropcdn.io/hls2/02/00026/g2pwlaw97c27_n/master.m3u8?=qnYOSJrOcqEXMILNSjlv4GMjLuNOsS9yS8QfdJukLaI&=1782628783&=14400&=2647365&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:858AAD678469901DBE624A10F277F567F7D420D8&dn=Deep%20Water",
+      "calidad": "1.32 MB",
+      "size": "1.32 MB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "la-renuncia-de-una-madre",
-      "titulo": "La renuncia de una madre",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352632-992641530.webp",
-      "banner": "https://image.tmdb.org/t/p/w1280/3RMrzFj5YWGlJF8fC1fEqTnSbl3.jpg",
+      "titulo": "Michael",
+      "descripcion": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "poster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "anio": "2026",
+      "calificacion": 8.706,
       "categorias": [
-        "Suspense",
-        "Película de TV"
+        "Music",
+        "Drama"
       ],
-      "descripcion": "Cuando la hermana de Nikki entra en prisión le cede a su hija con la promesa de no querer recuperarla nunca. La niña crece feliz como una hija más, pero siete años más tarde su madre biológica regresa...fuente",
-      "año": "2017",
-      "pais": [
-        "United States of America"
-      ],
-      "director": [
-        "Farhad Mann"
-      ],
-      "actores": [
-        "Jenny Gabrielle",
-        "April Bowlby",
-        "Amber Lynn Ashley",
-        "Ryan Jason Cook",
-        "J.D. Garfield",
-        "Allyson Harbert",
-        "Matt Page",
-        "Brytnee Ratledge",
-        "Matthew Van Wettering",
-        "Arina Gancicova"
-      ],
-      "calificacion": 6.3,
-      "video": "https://ds2.dropcdn.io/hls2/02/00026/t8ead9863o86_n/master.m3u8?=-nX3nukKzJ1s0TcZqQ2rx-fNcH7VC4jDz_DjPyQ2Ago&=1782628787&=14400&=2648539&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:DF15C08E9746BF1521ACBB33035D541318808CE5&dn=Michael%20Jackson%20Searching%20For%20Neverland%20%282017%29%20%5B1080p%5D%20%5BWEBRip%5D",
+      "calidad": "1.76 GB",
+      "size": "1.76 GB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "hampones",
-      "titulo": "Hampones",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782352133-633341957.webp",
-      "banner": "",
+      "titulo": "Scary Movie",
+      "descripcion": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "poster": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
+      "anio": "2026",
+      "calificacion": 5.528,
       "categorias": [
-        "Misterio"
+        "Comedy",
+        "Horror"
       ],
-      "descripcion": "Nueva York, años treinta. Un gángster negro se hace cargo del negocio de las loterías de Harlem tras el ingreso en prisión de la mujer para la que trabajaba como guardaespaldas. La próspera marcha del negocio provocará las iras de otros gángsteres como Dutch Schultz y Lucky Luciano...fuente",
-      "año": "1961",
-      "pais": [
-        "Argentina"
-      ],
-      "director": [
-        "Alberto D'Aversa"
-      ],
-      "actores": [
-        "Golde Flami",
-        "Mario Cabré",
-        "Guillermo Battaglia",
-        "Noemí Laserre",
-        "Beto Gianola",
-        "Nino Persello",
-        "Elida Gay Palmer",
-        "Luis Orbegoso",
-        "Rodolfo Onetto",
-        "Hugo Caprera"
-      ],
-      "calificacion": 0.0,
-      "video": "https://ds3.dropcdn.io/hls2/02/00026/r1496q34gu0c_n/master.m3u8?=MiqyatquZrcFWm-7OYhYSGG0bDqM-4HhqNQ8y2VgBxc&=1782628791&=14400&=2648622&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:EC729523ED77823139C97AD0DF1BA7C0235A1BB6&dn=Scary%20Movie",
+      "calidad": "19.72 GB",
+      "size": "19.72 GB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "woman-on-top",
-      "titulo": "Woman on Top",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782351865-140770129.webp",
-      "banner": "https://image.tmdb.org/t/p/w1280/fKcnrb49Pp6BJarmF0965ysBIsw.jpg",
+      "titulo": "Cocktail 2",
+      "descripcion": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
+      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+      "anio": "2026",
+      "calificacion": 5.8,
       "categorias": [
-        "Comedia",
-        "Drama",
         "Romance",
-        "Fantasía"
+        "Comedy"
       ],
-      "descripcion": "Isabella es una gran cocinera brasileña que ha permitido que el restaurante de su marido en Bahia sea un éxito. Para controlar su enfermedad, debe colocarse encima de su marido, Toninho, cuando practican el sexo, lo que conduce a su machista esposo a cometer toda clase de infidelidades. Despechada l",
-      "año": "2000",
-      "pais": [
-        "United States of America"
-      ],
-      "director": [
-        "Fina Torres"
-      ],
-      "actores": [
-        "Penélope Cruz",
-        "Murilo Benício",
-        "Mark Feuerstein",
-        "John de Lancie",
-        "Anne Ramsay",
-        "Ana Gasteyer",
-        "Harold Perrineau",
-        "June Carryl",
-        "Bob Greene",
-        "Lázaro Ramos"
-      ],
-      "calificacion": 6.1,
-      "video": "https://ds2.dropcdn.io/hls2/01/00026/4z35a4hwqdpm_o/master.m3u8?=jPOAplbuSMNWUQ8eSEivr9pdd408lpdEAjjbv4V-h6M&=1782628795&=14400&=2648684&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:B395C404B702C3FF4C3529E658B3593AA15BA10F&dn=Cocktail%202%202026%20%5BBolly4u%20money%5D%20HDTC%20HIndi%20480p%20400MB",
+      "calidad": "448.09 MB",
+      "size": "448.09 MB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "el-cuerpo",
-      "titulo": "El cuerpo",
-      "portada": "https://cinehdplus.zone/uploads/posts/2026-06/1782351721_el-cuerpo.jpg",
-      "banner": "https://image.tmdb.org/t/p/w1280/2xTNftU1KPVLOhnSKRLZ1NwZl7K.jpg",
+      "titulo": "Supergirl",
+      "descripcion": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "anio": "2026",
+      "calificacion": 6.174,
       "categorias": [
-        "Comedia",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:AEACAA6ABB999D362251AF5CF11D90797DA0C4AE&dn=SUPERGIRL",
+      "calidad": "30.17 MB",
+      "size": "30.17 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "The Sheep Detectives",
+      "descripcion": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "poster": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+      "anio": "2026",
+      "calificacion": 7.753,
+      "categorias": [
+        "Comedy",
+        "Mystery",
+        "Family"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:2F3EC966A3708343A05E277ED107157143A13F87&dn=The%20Sheep%20Detectives%202026%20D%20TELECINE%201O8Op",
+      "calidad": "5.17 GB",
+      "size": "5.17 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Mortal Kombat II",
+      "descripcion": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "poster": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "anio": "2026",
+      "calificacion": 7.982,
+      "categorias": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:7F69B7D793A007AF16406E804CA46FE386E06D81&dn=Mortal%20Kombat%20II",
+      "calidad": "27.5 MB",
+      "size": "27.5 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Salitan",
+      "descripcion": "A suspicious wife follows her husband in Bali. She meets a dashing man who captures her heart. She soon wants her husband to really have an affair to alleviate the guilt she is feeling.",
+      "poster": "https://image.tmdb.org/t/p/w500/rMgG7cWuq9O6zhhLs2CbqIKVA8V.jpg",
+      "anio": "2024",
+      "calificacion": 4.727,
+      "categorias": [
         "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Romance"
       ],
-      "descripcion": "Cuatro amigos se van de cacería. \"Accidentalmente\" uno mata a otro. La discusión sobre qué hacer con el cuerpo llega a puntos impensados...fuente",
-      "año": "2005",
-      "pais": [
-        "United States of America"
-      ],
-      "director": [
-        "Julio Jiménez"
-      ],
-      "actores": [
-        "Diana Osorio",
-        "Mario Cimarro",
-        "Andrés García",
-        "Lorena Rojas",
-        "Erick Elías",
-        "Martín Karpan",
-        "Vanessa Villela",
-        "Roberto Moll",
-        "Anna Silvetti",
-        "Jeannette Lehr"
-      ],
-      "calificacion": 7.6,
-      "video": "https://ds3.dropcdn.io/hls2/02/00026/82vnad352mbn_n/master.m3u8?=4T0Ob6_rOkjbjsSp3bd-k6FeZ_tdNbAq-rhdFVetS58&=1782628799&=14400&=2648760&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:FD3C0D682D24FC31839A48E4B75A09ECA31EE73B&dn=Salitan%20%282024%29%20%5B720p%5D%20%5BWEBRip%5D",
+      "calidad": "952.6 MB",
+      "size": "952.6 MB",
+      "fuente": "Magnetz"
     },
     {
-      "id": "psycho-killer",
-      "titulo": "Psycho Killer",
-      "portada": "https://cinehdplus.zone/uploads/backdrops/tt1764551.webp",
-      "banner": "https://image.tmdb.org/t/p/w1280/gMC4KIdHsj37w3kPI7mRUJLC57Q.jpg",
+      "titulo": "Your Heart Will Be Broken",
+      "descripcion": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+      "poster": "https://image.tmdb.org/t/p/w500/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+      "anio": "2026",
+      "calificacion": 7.014,
       "categorias": [
-        "Crimen",
-        "Terror",
-        "Misterio"
+        "Romance"
       ],
-      "descripcion": "Tras el brutal asesinato de su esposo, una agente de la patrulla de carreteras de Kansas emprende un viaje para encontrar al culpable. A medida que avanza la búsqueda, se da cuenta de que el responsable es un sádico asesino en serie, y que la profundidad de su depravación mental y sus siniestros pla",
-      "año": "2026",
-      "pais": [
-        "United States of America",
-        "Germany"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:727E44E80438247D883E6B95E9099DA7EBF26B57&dn=Will%20Your%20Heart%20Beat%20Faster%20%281980%29%20%5B720p%5D%20%5BBluRay%5D",
+      "calidad": "980.04 MB",
+      "size": "980.04 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Damage",
+      "descripcion": "The life of a respected British politician at the height of his career crumbles when he becomes obsessed with his son's lover.",
+      "poster": "https://image.tmdb.org/t/p/w500/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg",
+      "anio": "1992",
+      "calificacion": 6.581,
+      "categorias": [
+        "Drama",
+        "Romance"
       ],
-      "director": [
-        "Gavin Polone"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:DD84EBA5C5F1564F54CFEDDFAB5E86887FEDF18A&dn=Damage%20%282009%29%20%5B720p%5D%20%5BBluRay%5D",
+      "calidad": "977.23 MB",
+      "size": "977.23 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "The Super Mario Galaxy Movie",
+      "descripcion": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "anio": "2026",
+      "calificacion": 8.234,
+      "categorias": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
       ],
-      "actores": [
-        "Georgina Campbell",
-        "James Preston Rogers",
-        "Malcolm McDowell",
-        "Logan Miller",
-        "Grace Dove",
-        "Aaron Merke",
-        "Joshua Banman",
-        "Cassandra Ebner",
-        "Darren Martens",
-        "Sydney Sabiston"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:5151966BF4D240993954568E859168152E78D630&dn=the-super-mario-galaxy-movie-2026-trailer-1-1080p-lossless",
+      "calidad": "299.16 MB",
+      "size": "299.16 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "The Mandalorian and Grogu",
+      "descripcion": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "anio": "2026",
+      "calificacion": 6.687,
+      "categorias": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
       ],
-      "calificacion": 6.3,
-      "video": "https://r1.dropcdn.io/hls2/02/00016/24txt30mbgcl_n/master.m3u8?=1ipXKQGvRbJJ0gxOch0AcrjK336K0JjOzXFL5hi2eF4&=1782628803&=14400&=2648812&srv=ds2i&=.&sp=3000",
-      "fuente": "CineHDPlus"
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:43F72E44DDA3AA2DEBE157E22CC4D20C5646F0C6&dn=The%20Mandalorian%20and%20Grogu%20%5B2026%5D%20Dual%20YG",
+      "calidad": "3.87 GB",
+      "size": "3.87 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Bhooth Bangla",
+      "descripcion": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "anio": "2026",
+      "calificacion": 5.463,
+      "categorias": [
+        "Horror",
+        "Comedy"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:659780C51E20A11C9CA050B1E371697643E5FB7C&dn=Bhooth%20Bangla%202026%20%5B1Bolly4u%20com%5D%20HDTS%20HIndi%20720p%201%201GB",
+      "calidad": "1.18 GB",
+      "size": "1.18 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Voicemails for Isabelle",
+      "descripcion": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+      "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "anio": "2026",
+      "calificacion": 8.338,
+      "categorias": [
+        "Romance",
+        "Comedy"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:D6F026B6CC890B34B3AD1B87AD824DCDE920938E&dn=Voicemails%20for%20Isabelle%202026%201080p%20NF%20WEB-DL%20DDP5%201%20Atmos%20H%20264-playWEB",
+      "calidad": "4.67 GB",
+      "size": "4.67 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Madness",
+      "descripcion": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
+      "poster": "https://image.tmdb.org/t/p/w500/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
+      "anio": "1980",
+      "calificacion": 5.265,
+      "categorias": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:289DD68AA8025544BB0E4996E23E5D9DB59CF31D&dn=Madness",
+      "calidad": "1.26 GB",
+      "size": "1.26 GB",
+      "fuente": "Magnetz"
     }
   ],
-  "total_series": 0,
-  "series": []
+  "total_series": 20,
+  "series": [
+    {
+      "titulo": "FROM",
+      "descripcion": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "anio": "2022",
+      "calificacion": 8.5,
+      "categorias": [
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:E0BC44AAA00BAFA6CB9EF243575CE5DE402563EA&dn=from",
+      "calidad": "237.79 MB",
+      "size": "237.79 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Please Put Them On, Takamine-san",
+      "descripcion": "Student council president Takane Takamine is a popular star student. On the other hand, Koushi Shirota doesn't have many friends. That all changes when Koushi accidentally discovers Takane's ability to go back in time and alter past actions just by changing her lingerie. After some pestering, Koushi agrees to help Takane and be her closet, by having spare lingerie on hand.",
+      "poster": "https://image.tmdb.org/t/p/w500/aN4X9QSECSfh5p8S3HtTiWRKJla.jpg",
+      "anio": "2025",
+      "calificacion": 7.5,
+      "categorias": [
+        "Animation",
+        "Comedy"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:E9DAC1549DF001B2C1AD97806243D3F68F4B9E19&dn=Please%20Put%20Them%20On%2C%20Takamine-san%20%28Digital%29%20%281r0n%29",
+      "calidad": "723.69 MB",
+      "size": "723.69 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "House of the Dragon",
+      "descripcion": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "anio": "2022",
+      "calificacion": 8.348,
+      "categorias": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:C01DE1FC724C9745AD195155FAB8FA20447BF717&dn=House%20of%20the%20Dragon",
+      "calidad": "26.26 GB",
+      "size": "26.26 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Raakh",
+      "descripcion": "When two teenagers vanish, a close-knit family is shattered and the city is left on edge. Determined to uncover the truth, a relentless officer leads a nationwide manhunt that pulls him deep into a world of violence and human depravity.",
+      "poster": "https://image.tmdb.org/t/p/w500/5MbNy94ia4ZLf8OGtSfSjjlxxWN.jpg",
+      "anio": "2026",
+      "calificacion": 9.2,
+      "categorias": [
+        "Crime",
+        "Drama"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:1B1103C2C008485257649500E1483476A65ED5F7&dn=Raakh%202026%20S01%20%5BBolly4u%20money%5D%20WEB-DL%20Hindi%20720p%202%203GB",
+      "calidad": "2.32 GB",
+      "size": "2.32 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Off Campus",
+      "descripcion": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+      "poster": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
+      "anio": "2026",
+      "calificacion": 8.964,
+      "categorias": [
+        "Drama"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:99648397239161588DC5C54802FADB6985FF8170&dn=Off-Campus%20Series",
+      "calidad": "2.26 GB",
+      "size": "2.26 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Law & Order: Special Victims Unit",
+      "descripcion": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "anio": "1999",
+      "calificacion": 7.949,
+      "categorias": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:F8983DB1F57B45A49206AB2D8D9D334F632928EE&dn=Law%20%26%20Order%20Special%20Victims%20Unit",
+      "calidad": "74.92 GB",
+      "size": "74.92 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Gram Chikitsalay",
+      "descripcion": "The young, idealistic and brilliant Dr. Prabhat, takes charge of a neglected Primary Health Centre in a North India Village hoping to bring about much needed changes only to realise it is he who will have do change before anything else.",
+      "poster": "https://image.tmdb.org/t/p/w500/peRHZYhvuA6MLTJkpf5nIjgsWx5.jpg",
+      "anio": "2025",
+      "calificacion": 6.4,
+      "categorias": [
+        "Comedy",
+        "Drama"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:ADFCFFF23668B9CC0B3DF3839DFDC0106A9BAF78&dn=Gram%20Chikitsalay%20%282025%29%20Hindi%201080p%20WEBRip%20x265%20AAC%20ESub",
+      "calidad": "2.43 GB",
+      "size": "2.43 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Adam's Sweet Agony",
+      "descripcion": "This is the story of a boy, who became the lone Adam among four billion Eves. In a world where a pandemic has rendered all men impotent, high school student Itsuki is the exception who escaped it. In order to protect this secret, he transfers to a very special high school, which turns out to be composed of 90% girls! There, he encounters an upbeat and friendly senior, a sexually frustrated female teacher, a tomboyish school 'prince,' and an heiress from a wealthy family. For Itsuki, who has his pick of any woman in the world, the question remains: which one will he choose?",
+      "poster": "https://image.tmdb.org/t/p/w500/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
+      "anio": "2024",
+      "calificacion": 6.8,
+      "categorias": [
+        "Animation"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:9E096F141039ABFEBDECFCFBEFF54E864611E004&dn=Adam%27s%20Sweet%20Agony%20S01%20UNCENSORED%20English%20Hardsub%20720p%20WEB%20x264%20AAC%20-%20TMD-Group%20%28OceanVeil%29",
+      "calidad": "410.19 MB",
+      "size": "410.19 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "The Rookie",
+      "descripcion": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "anio": "2018",
+      "calificacion": 8.551,
+      "categorias": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:0CEEE7D21794390488B1F1F47B07F7BEA3CD5FAB&dn=The%20Rookie",
+      "calidad": "52.27 GB",
+      "size": "52.27 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Dutton Ranch",
+      "descripcion": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "anio": "2026",
+      "calificacion": 9.27,
+      "categorias": [
+        "Western",
+        "Drama"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:1BF288556146B2EAF2A61ED54DCEEAA611FE6BF3&dn=Dutton%20Ranch%20S01E02%20720p%20HEVC%20x265-MeGusta",
+      "calidad": "453.5 MB",
+      "size": "453.5 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Avatar: The Last Airbender",
+      "descripcion": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+      "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+      "anio": "2024",
+      "calificacion": 7.807,
+      "categorias": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Family"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:4569DDBC22A261F6969600FDAAE1544C56E0329C&dn=Avatar%20The%20Last%20Airbender",
+      "calidad": "5.72 GB",
+      "size": "5.72 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Hunter x Hunter",
+      "descripcion": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famous Hunter: an individual who has proven themself an elite member of humanity. Gon becomes determined to follow in his father's footsteps, pass the rigorous Hunter Examination.",
+      "poster": "https://image.tmdb.org/t/p/w500/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
+      "anio": "1999",
+      "calificacion": 8.442,
+      "categorias": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:4284896DC630B426B286CA7D95AFC69EEADA714C&dn=%E3%80%90Hunter%20X%20Hunter%E3%80%91",
+      "calidad": "19.22 GB",
+      "size": "19.22 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "The Boys",
+      "descripcion": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "anio": "2019",
+      "calificacion": 8.45,
+      "categorias": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:0883437971EA23FC3C5D9F65D5C514F5012ACD84&dn=The%20Boys",
+      "calidad": "2.95 GB",
+      "size": "2.95 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Game of Thrones",
+      "descripcion": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "anio": "2011",
+      "calificacion": 8.463,
+      "categorias": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:65C4655F4FC35A3D1338F60F90C51C01A6B12A4D&dn=Game%20of%20Thrones",
+      "calidad": "226.76 GB",
+      "size": "226.76 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Notes from the Last Row",
+      "descripcion": "A literature professor discovers a student's talent and offers him writing lessons — but as he sinks into the story, their sessions spiral into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
+      "anio": "2026",
+      "calificacion": 8.9,
+      "categorias": [
+        "Mystery",
+        "Drama"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:02D82FD2AB617E4AD34B95F5B57EC7B9BD410E5F&dn=Notes%20from%20the%20Last%20Row%20S01E04%201080p%20WEB%20h264-EDITH",
+      "calidad": "2.46 GB",
+      "size": "2.46 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Law & Order",
+      "descripcion": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+      "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+      "anio": "1990",
+      "calificacion": 7.298,
+      "categorias": [
+        "Crime",
+        "Drama"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:545C9E49D69AB808EDE6E543C6B0C1C04907F4BE&dn=Law%20%26%20Order",
+      "calidad": "1.36 GB",
+      "size": "1.36 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Supernatural",
+      "descripcion": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+      "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+      "anio": "2005",
+      "calificacion": 8.31,
+      "categorias": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:8ACAF144AB2CCA74BCEEBA9FA8FC41052403BD24&dn=Supernatural",
+      "calidad": "65.73 GB",
+      "size": "65.73 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Grey's Anatomy",
+      "descripcion": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+      "anio": "2005",
+      "calificacion": 8.21,
+      "categorias": [
+        "Drama"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:02719993649B11EA1CEDACDBFB27071DC3D5D2E9&dn=Grey%27s%20Anatomy",
+      "calidad": "109.28 GB",
+      "size": "109.28 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Never-Ending Summer",
+      "descripcion": "To save her gravely ill grandmother, top student Zhou Wan approaches her mother's stepson, Lu Xixiao, for funds. They fall for each other over the summer after graduation but are torn apart by misunderstandings in reality. Ten years later, they reunite at work. Though Lu Xixiao harbors resentment, his love for Zhou Wan remains. As they uncover the truth behind a \"factory accident,\" they resolve their differences and reunite.",
+      "poster": "https://image.tmdb.org/t/p/w500/51x3GY7o07PqLgCN0UIJVHHzgCO.jpg",
+      "anio": "2026",
+      "calificacion": 9.0,
+      "categorias": [
+        "Drama"
+      ],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:ACA3FF2602A2F0EA2E862B3C36868CC0B82A81B1&dn=Never-Ending%20Summer%20%5B4K%5D",
+      "calidad": "2.35 GB",
+      "size": "2.35 GB",
+      "fuente": "Magnetz"
+    },
+    {
+      "titulo": "Xplay",
+      "descripcion": "Xplay (previously GameSpot TV and Extended Play) is a TV program about video games. The program, known for its reviews and comedy skits, airs on G4 in the United States and had aired on G4 Canada in Canada (and briefly on YTV during its time as GameSpot TV), FUEL TV in Australia, Ego in Israel, GXT in Italy, MTV Russia & Rambler TV in Russia, Solar Sports in the Philippines and Adult Swim and MuchMusic in Latin America. The show ran between July 4, 1998, and January 23, 2013, and returned in November 2021 as a part of G4's relaunch.",
+      "poster": "https://image.tmdb.org/t/p/w500/7ynD7g4U9hOODu1Jzf6VN4zQc6a.jpg",
+      "anio": "2003",
+      "calificacion": 8.0,
+      "categorias": [],
+      "tipo": "serie",
+      "magnet": "magnet:?xt=urn:btih:A47099112A0AAEEF5738B994B374BDD39CD6AFFB&dn=%5BXPlay%5D%20Not%20Married%20With%20Children%20XXX%20-%20360p",
+      "calidad": "347.51 MB",
+      "size": "347.51 MB",
+      "fuente": "Magnetz"
+    }
+  ]
 }
