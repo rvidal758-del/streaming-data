@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-06-29 14:26:26",
+  "ultima_actualizacion": "2026-06-29 14:47:31",
   "total_peliculas": 1,
   "peliculas": [
     {
@@ -23,6 +23,38 @@
       "fuente": "YTS"
     }
   ],
-  "total_series": 0,
-  "series": []
+  "total_series": 1,
+  "series": [
+    {
+      "id": 124364,
+      "titulo": "FROM",
+      "descripcion": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "banner": "https://image.tmdb.org/t/p/w500/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+      "anio": "2022",
+      "calificacion": 8.5,
+      "categorias": [
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "tipo": "serie",
+      "temporadas": [
+        {
+          "numero": 1,
+          "episodios": [
+            {
+              "numero": 1,
+              "titulo_episodio": "El largo viaje del día hacia la noche",
+              "magnet": "magnet:?xt=urn:btih:1A6BFFA5C86A2FBB994AE5EF2176C2512D4072E0&dn=From%20S01E01%20Long%20Days%20Journey%20Into%20Night%202160p%20STAN%20WEB-DL%20DDP5%201%20H%20265-Kitsune",
+              "calidad": "5.1 GB",
+              "size": "5.1 GB",
+              "fuente": "Magnetz",
+              "encontrado": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
