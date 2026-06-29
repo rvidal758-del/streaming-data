@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-06-29 14:47:31",
-  "total_peliculas": 1,
+  "ultima_actualizacion": "2026-06-29 18:15:20",
+  "total_peliculas": 2,
   "peliculas": [
     {
       "id": 920,
@@ -20,6 +20,24 @@
       "magnet": "magnet:?xt=urn:btih:231E7E19F778689B71C00F6CED4EBD43B88C021F&dn=Mike%27s%20New%20Car",
       "calidad": "1080p",
       "size": "72.55 MB",
+      "fuente": "YTS"
+    },
+    {
+      "id": 278,
+      "titulo": "Cadena perpetua",
+      "descripcion": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+      "poster": "https://image.tmdb.org/t/p/w500/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "banner": "https://image.tmdb.org/t/p/w500/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "anio": "1994",
+      "calificacion": 8.723,
+      "categorias": [
+        "Drama",
+        "Crime"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:013B1DA5952F1271DF934014AE27B8E46FB99CFA&dn=Cadena%20perpetua",
+      "calidad": "1080p",
+      "size": "1.57 GB",
       "fuente": "YTS"
     }
   ],
