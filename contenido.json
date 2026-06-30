@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-06-30 19:08:41",
-  "total_peliculas": 1,
+  "ultima_actualizacion": "2026-06-30 20:51:20",
+  "total_peliculas": 2,
   "peliculas": [
     {
       "id": 12,
@@ -19,6 +19,25 @@
       "magnet": "magnet:?xt=urn:btih:8416D84F17CC26CF5A08451AA69977C2C497FD7C&dn=Buscando%20A%20Nemo",
       "calidad": "700.58 MB",
       "size": "700.58 MB",
+      "fuente": "Magnetz"
+    },
+    {
+      "id": 22,
+      "titulo": "Piratas del Caribe: La maldición de la Perla Negra",
+      "descripcion": "El aventurero capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secuestrando a Elizabeth Swann, hija del gobernador. Will Turner, el amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar la Perla Negra. Pero el prometido de Elizabeth, comodoro Norrington, les persigue a bordo del HMS Impávido. Además, Barbossa y su tripulación son víctimas de un conjuro por el que están condenados a vivir eternamente, y a transformarse cada noche en esqueletos vivientes, en fantasmas guerreros.",
+      "poster": "https://image.tmdb.org/t/p/w500/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
+      "banner": "https://image.tmdb.org/t/p/w500/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+      "anio": "2003",
+      "calificacion": 7.827,
+      "categorias": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "tipo": "pelicula",
+      "magnet": "magnet:?xt=urn:btih:0CA38FADFE6FCBFF8B558F47E1F131C0DB850E09&dn=Piratas%20Del%20Caribe%20-%20La%20Maldicion%20De%20La%20Perla%20Negra",
+      "calidad": "1.29 GB",
+      "size": "1.29 GB",
       "fuente": "Magnetz"
     }
   ],
